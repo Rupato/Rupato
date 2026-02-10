@@ -18,7 +18,7 @@ Software Engineer with 6+ years of experience working on production web applicat
 
 ## 🧠 Some facts about me
 - Strong JavaScript and frontend architecture background  
-- Experience with enterprise codebases (.NET, Java)  
+- Experience with enterprise codebases (.NET)  
 - Actively expanding backend, database, and cloud expertise  
 
 ---
