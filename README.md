@@ -19,7 +19,7 @@ Software Engineer with 6+ years of experience working on production web applicat
 ## 🧠 Some facts about me
 - Strong JavaScript and frontend architecture background  
 - Experience with enterprise codebases (.NET)  
-- Actively expanding backend, database, and cloud expertise  
+- Actively expanding backend, database, and cloud capabilities
 
 ---
 
@@ -32,14 +32,12 @@ Software Engineer with 6+ years of experience working on production web applicat
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/CORE%20JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=F29111" />
