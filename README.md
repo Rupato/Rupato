@@ -1,16 +1,27 @@
-## Hi there 👋
+👋 Hey, I’m Rupato
 
-<!--
-**Rupato/Rupato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer with 6+ years of experience working on production web applications and systems.
 
-Here are some ideas to get you started:
+### Some facts about me
+- Strong background in JavaScript and frontend architecture
+- Experience working with enterprise technologies and large codebases
+- Currently deepening my knowledge in backend, databases, and cloud technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages I work with
+- JavaScript
+- TypeScript
+- C#
+- Core Java
+- SQL
+
+### Frameworks / Platforms
+- React
+- Next.js
+- Node.js
+- .NET
+
+### Tech I’m currently learning
+- PostgreSQL (database design & performance)
+- Docker
+- AWS
+- Kubernetes (CKAD)
