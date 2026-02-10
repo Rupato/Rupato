@@ -17,9 +17,9 @@ Software Engineer with 6+ years of experience working on production web applicat
 ---
 
 ## 🧠 Some facts about me
-- Strong JavaScript and frontend architecture background  
-- Experience with enterprise codebases (.NET)  
-- Actively expanding backend, database, and cloud capabilities
+- Strong JavaScript and React background with a focus on frontend architecture.
+- Experience building and maintaining enterprise-grade .NET and React applications.
+- Actively expanding backend, database, and cloud expertise using Node.js, Docker, and AWS.
 
 ---
 
